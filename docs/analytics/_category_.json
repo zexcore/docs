@@ -1,0 +1,8 @@
+{
+  "label": "Analytics",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Monitor app logs, events, and watch real-time logs on the Zexcore Dashboard."
+  }
+}
